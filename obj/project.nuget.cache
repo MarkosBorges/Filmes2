@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2R59JFhGrROAiGEXvnbJ89Sm9CzAPw8ski9QZt/xCBydmD1mWrU/jB5iZK9vGrFZEXj2Jbc1u/oDLpu0kACjoQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Filmes2\\Filmes2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaRkos\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\MaRkos\\.nuget\\packages\\flunt.extensions.br\\1.0.1\\flunt.extensions.br.1.0.1.nupkg.sha512",
+    "C:\\Users\\MaRkos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\MaRkos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
